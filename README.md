@@ -10,12 +10,12 @@
 > 
 | 메인 | 
 | :------------: |
-| ![메인](https://github.com/kimJina2/KotlinSpring/assets/) | 
+| ![image](https://github.com/kimJina2/KotlinSpring/assets/147501094/9c2f69d0-5d3a-48d1-bd02-de212259f91b) | 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PROJECT IDE -->
-## 🛠 프로젝트 스택(백엔드)
+## 🛠 프로젝트 스택
 * 개발환경 : JAVA 11
 * IDE: IntelliJ
 * Build: Gradle
